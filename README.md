@@ -22,7 +22,7 @@
 			</td>
 			<td style="width: 28px; height: 118px; text-align: center; vertical-align: middle;" rowspan="2">
 				<a href="https://github.com/razumv">
-					<img src="./avatar.jpg" align="center" width="300" height="300" />
+					<img src="./avatar.jpg" align="center" width="400" height="400" />
 				</a>
 			</td>
 		</tr>
