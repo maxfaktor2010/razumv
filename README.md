@@ -1,4 +1,4 @@
-# 👋 Hello, I'm KURASH! Co-founder of POSTCAPITALIST, member of DVS and Double Top team member.
+# 👋 Hello, I'm razumv! Double Top team member.
 
 <p align="center">
 	<a href="https://github.com/kuraassh" target="_blank">
