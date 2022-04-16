@@ -1,7 +1,7 @@
 # 👋 Hello, I'm razumv! Double Top team member.
 
 <p align="center">
-	<a href="https://github.com/kuraassh" target="_blank">
+	<a href="https://github.com/razumv" target="_blank">
 		<img align="center" src="https://komarev.com/ghpvc/?username=razumv&color=D87AA8&style=flat-square&label=Visitors" />
 	</a>
 	<a href="https://github.com/razumv?tab=followers" target="_blank">
