@@ -17,7 +17,7 @@
 		<tr style="height: 125px;">
 			<td style="width: 10px; height: 125px; text-align: center; vertical-align: middle;">
 				<a href="https://github.com/razumv">
-					<img src="https://github-readme-stats.vercel.app/api?username=kuraassh&bg_color=D87AA8&title_color=fff&text_color=fff&show_icons=true&icon_color=fff" align="center" />
+					<img src="https://github-readme-stats.vercel.app/api?username=razumv&bg_color=D87AA8&title_color=fff&text_color=fff&show_icons=true&icon_color=fff" align="center" />
 				</a>
 			</td>
 			<td style="width: 28px; height: 118px; text-align: center; vertical-align: middle;" rowspan="2">
